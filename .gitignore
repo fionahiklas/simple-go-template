@@ -1,0 +1,30 @@
+# Backup files
+*~
+\#*
+*\#
+*.bak
+.\#*
+
+# Coverage
+coverage*.out
+
+# Mock files
+mock_*.go
+
+# Build
+build
+
+# Temp
+tmp
+temp
+
+# Ruby
+.gem
+
+# This contains config which might use absolute paths
+.bundle
+
+# Logging
+
+# Pact testing seemed to create a `logs` directory
+logs
